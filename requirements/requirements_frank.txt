@@ -1,4 +1,4 @@
-git+https://github.com/JennaGustafson/raspa2.git@sensor_array_mof_adsorption
+git+https://github.com/aib22/raspa2.git@h2s
 numpy
 scipy
 pyyaml
@@ -6,4 +6,4 @@ pyyaml
 ## for PITT HPC integration
 redis
 git+https://github.com/paulboone/rq.git@handle_sigterms
-git+https://github.com/paulboone/sam-subjobserver.git
+git+https://github.com/paulboone/sam-subjobserver.git@0.2
